@@ -10,5 +10,23 @@
 - [ ] Coleta de dados das cargas úteis -> valores aleatórios?
 	- [ ] Secundário(?): Balanço interno de dados gerados e dados salvos
 - [X] Simular ambiente espacial (eclipse, iluminado) com certa fidelidade
-	- *Mais ou menos pronto, só precisa de alguns ajustes
+	- *Mais ou menos pronto, só precisa de alguns ajustes*
 - Separar a máquina de ambiente em uma máquina de bateria/PSS seria interessante?
+
+
+## Contas de link budget
+
+BUS: 15KB/o
+estimated:  0,1KB/s
+
+SLP: 270KB/o
+30KB no máximo por 5 minutos de operação -> 9 measurements per orbit
+-> 2700s para cobrir 270KB
+0,1KB/s
+
+SDTAF: 230KB/o
+estimated:  0,1KB/s
+
+SMDH: 1KB/o
+estimated:  0,01KB/s
+
